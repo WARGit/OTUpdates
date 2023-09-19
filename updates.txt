@@ -3,7 +3,7 @@
 [OneTikAgentUpdate]
 Name = OneTik Agent Update
 ProductVersion = 0.5.1.0
-URL = https://stzju2y264yoreq.blob.core.windows.net/onetikagentinstallerqa001\onetikagent-0.5.1.0-win-x64.msi
+URL = https://github.com/WARGit/OTUpdates\onetikagent-0.5.1.0-win-x64.msi
 Size = 15030272
 ReleaseDate = 07/09/2023
 SHA256 = C79EA21A79D46F873165CEF8B7C2555D687BF6D8216EC4EC210622C02E9812A2
