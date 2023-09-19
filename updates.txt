@@ -1,0 +1,14 @@
+;aiu;
+
+[OneTikAgentUpdate]
+Name = OneTik Agent Update
+ProductVersion = 0.5.1.0
+URL = https://stzju2y264yoreq.blob.core.windows.net/onetikagentinstallerqa001\onetikagent-0.5.1.0-win-x64.msi
+Size = 15030272
+ReleaseDate = 07/09/2023
+SHA256 = C79EA21A79D46F873165CEF8B7C2555D687BF6D8216EC4EC210622C02E9812A2
+MD5 = a44013749117a8f8f0323c7b031da452
+ServerFileName = onetikagent-0.5.1.0-win-x64.msi
+Flags = Sys64|Os64
+RegistryKey = HKUD\Software\OneTik\OneTik Agent\Version
+Version = 0.5.1.0
